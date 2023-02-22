@@ -83,4 +83,5 @@
   ..\..\..\..\..\sdk\platform\driver\uart\uart.h \
   ..\..\..\..\..\sdk\platform\driver\dma\dma.h \
   ..\src\accel_lis2dh_impl.h ..\src\lis2dh_driver.h \
-  ..\..\..\..\..\sdk\platform\driver\i2c\i2c.h ..\src\i2c_impl.h
+  ..\..\..\..\..\sdk\platform\driver\spi\spi.h \
+  ..\..\..\..\..\sdk\platform\driver\spi\spi_531.h ..\src\spi_impl.h

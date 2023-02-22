@@ -96,7 +96,9 @@
   ..\..\..\..\..\sdk\ble_stack\ea\api\ea.h ..\src\user_lis2dh_app.h \
   ..\src\accel_lis2dh_impl.h ..\src\lis2dh_driver.h \
   ..\..\..\..\..\sdk\platform\driver\wkupct_quadec\wkupct_quadec.h \
-  ..\..\..\..\..\sdk\platform\driver\i2c\i2c.h \
+  ..\..\..\..\..\sdk\platform\driver\spi\spi.h \
+  ..\..\..\..\..\sdk\platform\driver\spi\spi_531.h \
   ..\..\..\..\..\sdk\platform\driver\dma\dma.h \
   ..\..\..\..\..\sdk\platform\core_modules\arch_console\arch_console.h \
-  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdarg.h ..\src\i2c_impl.h
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdarg.h ..\src\i2c_impl.h \
+  ..\..\..\..\..\sdk\platform\driver\i2c\i2c.h
