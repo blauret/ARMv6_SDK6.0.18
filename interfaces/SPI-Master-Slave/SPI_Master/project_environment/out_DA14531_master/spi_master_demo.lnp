@@ -1,4 +1,4 @@
---cpu Cortex-M0+
+--cpu Cortex-M0+ --lto
 ".\out_da14531_master\startup_da14531.o"
 ".\out_da14531_master\system_da14531.o"
 ".\out_da14531_master\exceptions.o"
