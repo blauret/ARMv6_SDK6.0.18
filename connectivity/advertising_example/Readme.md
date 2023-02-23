@@ -63,6 +63,8 @@ The user manuals for the development kits can be found:
 
 ### __Software configuration__
 
+  - This example was built on SDK 6.0.14 will be compatible with latest versions.
+
 This example requires:
 	
 - [SDK latest version](https://www.dialog-semiconductor.com/da14531_sdk_latest).
