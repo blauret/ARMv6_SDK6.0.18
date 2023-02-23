@@ -25,8 +25,8 @@ This example runs on the BLE Smart SoC (System on Chip) devices:
 - DA14585/DA14586 basic development kit.
 
 The user manuals for the development kits can be found:
-- [Here](https://www.dialog-semiconductor.com/products/da14531-development-kit-pro) for the DA145xxDEVKT-P PRO-Motherboard.
-- [Here](https://www.dialog-semiconductor.com/sites/default/files/um-b-048_da14585da14586_getting_started_guide_v2.0_0.pdf) for the Basic Development Kit.
+- [Here]http://lpccs-docs.renesas.com/UM-B-117-DA14531-Getting-Started-With-The-Pro-Development-Kit/index.html for the DA145xxDEVKT-P PRO-Motherboard.
+- [Here](https://www.renesas.com/tw/en/products/interface-connectivity/wireless-communications/bluetooth-low-energy/da14531-00fxdevkt-u-smartbond-tiny-da14531-bluetooth-low-energy-51-system-chip-usb-development-kit) for the Basic Development Kit.
 
 * __Hardware configuration DA14531 using DA145xxDEVKT-P PRO-Motherboard__
 
