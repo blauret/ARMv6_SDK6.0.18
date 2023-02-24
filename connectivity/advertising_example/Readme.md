@@ -98,9 +98,7 @@ For the initial setup of the project that involves linking the SDK to this SW ex
 	```
 
 5. Compile (F7) and launch (ctrl + F5) the example.\
-   If the warning shown below pops up press OK.
- 
-   ![warning](assets/warning.png)
+
 
 ## GPIO identification 
 Make sure to read the correct identification according to your mother board and daughter board.
